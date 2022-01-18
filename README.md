@@ -1,1 +1,1 @@
-# coursera-robotcs-specialization
+# Coursera Robotics Specialization
